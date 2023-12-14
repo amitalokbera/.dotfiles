@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=nvidia-settings --load-config-only
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_IN]=NVIDIA config
+Name=NVIDIA config
+Comment[en_IN]=
+Comment=
